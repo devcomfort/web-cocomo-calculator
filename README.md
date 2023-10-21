@@ -1,4 +1,4 @@
-# Web COCOMO-2 Calculator
+# Web COCOMO/COCOMO-2 Calculator
 
 ## Introduction
 
@@ -8,3 +8,5 @@ This project is a new web-based COCOMO calculator. It was created because existi
 
 - COCOMO II - Constructive Cost Model - http://softwarecost.org/tools/COCOMO/
 - STRS COCOMO Calculation - https://strs.grc.nasa.gov/repository/forms/cocomo-calculation/
+- Next.js Docs - https://nextjs.org/docs
+- NextUI Docs - https://nextui.org/docs/guide/introduction
